@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Table of Content](README.md)
+
+## Shortcode
+
+* [Segment](shortcode/segment.md)
+* [Phone](shortcode/phone.md)
 
